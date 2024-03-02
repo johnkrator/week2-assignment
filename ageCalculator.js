@@ -6,7 +6,7 @@ let dob = parseInt(prompt("Enter your dob: "));
 // get current year
 let currentYear = parseInt(prompt("Enter current year: "));
 
-// substract dob from current year
+// subtract dob from current year
 let currentAge = currentYear - dob;
 
 // print result
